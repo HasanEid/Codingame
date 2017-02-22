@@ -13,6 +13,7 @@ if len(temps) == 0:
 	
 else:
     x = int(list_temps[0]) 			#define x as the first temperature 
+    
     for i in range(n):
         y = int(list_temps[i])  
 		
