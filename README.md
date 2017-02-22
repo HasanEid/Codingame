@@ -2,7 +2,10 @@
 #Code for closest temperature to 0
 #Python Code
 
+import sys
+import math
 
+# the standard input according to the problem statement.
 n = int(raw_input())				# the number of temperatures to analyse
 temps = raw_input()					# the n temperatures expressed as integers ranging from -273 to 5526
 
