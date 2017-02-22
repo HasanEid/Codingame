@@ -1,6 +1,5 @@
 # Codingame
-#Code for closest temperature to 0
-#Python Code
+Python Code for closest temperature to 0
 
 import sys
 import math
